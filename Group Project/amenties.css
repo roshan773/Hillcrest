@@ -1,0 +1,6 @@
+@media (max-width: 991px){
+    #square{
+        position: absolute;
+        margin-left: -110px;
+    }
+}

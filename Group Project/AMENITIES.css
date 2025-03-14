@@ -1,0 +1,31 @@
+@media (max-width: 991px) {
+    .AMENITIES{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .tabs {
+        flex-direction: column;
+    }
+
+    .tab-img{
+        width: 100%;
+        height: auto;
+    }
+
+    .content {
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        /* background-color: aqua; */
+    }
+
+    .box1, .box2, .box3, .box4 {
+        position: relative;
+        left: 0;
+    }
+
+    .circle {
+        margin: 20px auto;
+    }
+}

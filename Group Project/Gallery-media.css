@@ -1,0 +1,524 @@
+@media(max-width:576px)
+{
+    .att-p
+    {
+        height: 300px;
+    }
+    .info
+    {
+        margin: 100px 0px 0px 0px ;
+    }
+}
+
+@media(max-width:480px)
+{
+    .nav-item button
+    {
+        font-size: 15px;
+    }
+    .nav-image 
+    {
+        width: 90%;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .nav-image img
+    {
+        width: 100%;
+        height: 220px;
+    }
+    .footer
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    #sub-footer1
+    {
+        width: 100%;
+        display: flex;
+    }
+    .footer-p
+    {
+        font-size: 15px;
+        position: relative;
+        top: 5px;
+        left: -15px;
+    }
+    #fp1
+    {
+        position: relative;
+        top: -10px;
+    }
+    #fp2
+    {
+        position: relative;
+        top: -30px;
+    }
+    #email-p
+    {
+        position: relative;
+        top: 0px;
+        display: block;
+    }
+    #email-p2
+    {
+        position: relative;
+        top: 0px;
+    }
+    #sub-footer2
+    {
+        width: 100%;
+    }
+    #sub-footer3
+    {
+        width: 100%;
+    }
+    .sub-icon1
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon1 i
+    {
+        font-size: 15px;
+    }
+    .sub-icon2
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon2 i
+    {
+        font-size: 15px;
+    }
+    .sub-icon3
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon3 i
+    {
+        font-size: 15px;
+    }
+    .sub-icon4
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon4 i
+    {
+        font-size: 15px;
+    }
+    #intro-main
+    {
+        width: 100%;
+    }
+    .intro
+    {
+        padding: 30px 10px 20px 10px;
+    }
+    .intro p
+    {
+        font-size: 14px;
+    }
+    .intro-data
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .att-image
+    {
+        height: 250px;
+    }
+    .att-image img
+    {
+        height: 250px;
+        padding: 0px 20px;
+    }
+    .att-p
+    {
+        height: 350px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .att-p1
+    {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .att-p2
+    {
+        font-size: 16px;
+        padding: 10px ;
+    }
+
+     /* contact */
+     .c-main
+     {
+        width: 80%;
+        margin: auto;
+     }
+     .info
+     {
+         width: 100%;
+         margin: 100px 0px 0px 0px ;
+     }
+     .c-addr
+     {
+         width: 90%;
+         height: 150px;
+         margin: auto;
+     }
+     .form-main
+     {
+         width: 90%;
+         margin: auto;
+     }
+     .form
+     {
+         width: 100%;
+         margin: 50px 0px ;
+     }
+     .name
+     {
+         width: 100%;
+         margin: auto;
+         position: relative;
+         left: -50px;
+     }
+     .email-inp
+     {
+         width: 100%;
+         margin: auto;  
+         position: relative;
+         left: -50px;
+     }
+     .message
+     {
+         width: 100%;
+         margin: auto;
+         position: relative;
+         left: -50px; 
+     }
+     .get
+     {
+         position: relative;
+         left: -50px;
+     }
+     #email-input
+     {
+         margin-top: 22px;
+     }
+     .btn-submit
+     {
+         width: 50%;
+         position: relative;
+         left: -50px;
+     }
+
+}
+
+
+@media(max-width:320px)
+{
+    .nav-item button
+    {
+        font-size: 10px;
+    }
+    .nav-image 
+    {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .nav-image img
+    {
+        width: 100%;
+        height: 200px;
+    }
+    .footer
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    #sub-footer1
+    {
+        width: 100%;
+        display: flex;
+    }
+    .footer-p
+    {
+        font-size: 14px;
+        position: relative;
+        left: 15px;
+        top: -25px;
+    }
+    #fp1
+    {
+        position: relative;
+        top: -35px;
+    }
+    #fp2
+    {
+        position: relative;
+        top: -45px;
+    }
+    #email-p
+    {
+        position: relative;
+        top: -30px;
+    }
+    #email-p2
+    {
+        position: relative;
+        top: -30px;
+    }
+    #sub-footer2
+    {
+        width: 100%;
+    }
+    #sub-footer3
+    {
+        width: 100%;
+    }
+    .sub-icon1
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon1 i
+    {
+        font-size: 15px;
+    }
+    .sub-icon2
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon2 i
+    {
+        font-size: 15px;
+    }
+    .sub-icon3
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon3 i
+    {
+        font-size: 15px;
+    }
+    .sub-icon4
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .sub-icon4 i
+    {
+        font-size: 15px;
+    }
+    /* attraction */
+    #intro-main
+    {
+        width: 100%;
+    }
+    .intro
+    {
+        padding: 30px 10px 20px 10px;
+    }
+    .intro p
+    {
+        font-size: 14px;
+    }
+    .intro-data
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .att-image
+    {
+        height: 250px;
+    }
+    .att-image img
+    {
+        height: 250px;
+    }
+    .att-p
+    {
+        height: 430px;
+    }
+    .att-p1
+    {
+        font-size: 16px;
+    }
+    .att-p2
+    {
+        font-size: 14px;
+    }
+
+    /* contact */
+    .info
+    {
+        width: 100%;
+        margin: 100px 0px 0px 0px ;
+    }
+    .c-addr
+    {
+        width: 90%;
+        height: 150px;
+        margin: auto;
+    }
+    .form-main
+    {
+        width: 100%;
+    }
+    .form
+    {
+        width: 100%;
+        margin: 50px 0px ;
+    }
+    .name
+    {
+        width: 100%;
+        margin: auto;
+        position: relative;
+        left: -50px;
+    }
+    .email-inp
+    {
+        width: 100%;
+        margin: auto;  
+        position: relative;
+        left: -50px;
+    }
+    .message
+    {
+        width: 100%;
+        margin: auto;
+        position: relative;
+        left: -50px; 
+    }
+    .get
+    {
+        position: relative;
+        left: -50px;
+    }
+    #email-input
+    {
+        margin-top: 22px;
+    }
+    .btn-submit
+    {
+        width: 50%;
+        position: relative;
+        left: -50px;
+    }
+}
+
+@media(min-width:768px) and (max-width:992px)
+{
+    .att-p
+    {
+        height: 400px;
+    }
+    .att-p1
+    {
+        font-size: 17px;
+    }
+    .att-p2
+    {
+        font-size: 15px;
+    }
+    .c-addr
+    {
+        width: 70%;
+        height: 200px;
+        margin: auto;
+    }
+    .p-addr
+    {
+        font-size: 14px;
+    }
+    .dash
+    {
+        font-size: 10px;
+    }
+}
+
+
+@media(min-width:992px) and (max-width:1535px)
+{
+    .footer
+    {
+        display: flex;
+    }
+    #sub-footer1
+    {
+        width: 30%;
+        display: flex;
+    }
+    .footer-p
+    {
+        font-size: 14px;
+        position: relative;
+        left: 15px;
+        top: -25px;
+    }
+    #fp1
+    {
+        position: relative;
+        top: -35px;
+    }
+    #fp2
+    {
+        position: relative;
+        top: -45px;
+    }
+    #email-p
+    {
+        position: relative;
+        top: -30px;
+    }
+    #email-p2
+    {
+        position: relative;
+        top: -30px;
+    }
+    #sub-footer2
+    {
+        width: 20%;
+    }
+    #sub-footer3
+    {
+        width: 50%;
+    }
+    /* attraction */
+    .att-p
+    {
+        height: 400px;
+    }
+    .att-p1
+    {
+        font-size: 19px;
+    }
+    .att-p2
+    {
+        font-size: 17px;
+    }
+    /* contact */
+    .c-addr
+    {
+        width: 70%;
+        height: 150px;
+        margin: auto;
+    }
+    .p-addr
+    {
+        font-size: 14px;
+    }
+    .dash
+    {
+        font-size: 10px;
+    }
+}
